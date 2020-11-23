@@ -22,4 +22,4 @@ const me = developers.find(dev => dev.name === 'Enzo')
 ---
 
 ### My GitHub stats
-![Enzo github stats](https://github-readme-stats.vercel.app/api?username=enzostvs&show_icons=true&theme=radical)
+![Enzo github stats](https://github-readme-stats.vercel.app/api?username=enzostvs&show_icons=true&theme=radical&count_private=true)
