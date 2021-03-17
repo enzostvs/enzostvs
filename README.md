@@ -21,5 +21,5 @@ const me = developers.find(dev => dev.name === 'Enzo')
 
 ---
 
-### My GitHub stats
-![Enzo github stats](https://github-readme-stats.vercel.app/api?username=enzostvs&show_icons=true&theme=radical&count_private=true)
+### GitHub stats
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
