@@ -6,7 +6,7 @@ I live in Paris, where the Eiffel Tower is located, and am passionate about anim
 ### Want to know more ?
 
 - 💻 Front-End developer
-  - React, Nuxt, vanilla (and others..)
+  - React, Vue, vanilla (and others..)
   - SaSS, Less, Framework UI like Ant, Tailwind (and others..)
 ```javascript
 const me = developers.find(dev => dev.name === 'Enzo')
