@@ -39,6 +39,7 @@ Here are some of my favorite creations:
 *Stay tuned – I'm adding more soon!*
 
 ### 🐳 DeepSite
+<img src="https://enzostvs-deepsite.hf.space/banner.png" alt="DeepSite" data-canonical-src="https://enzostvs-deepsite.hf.space/banner.png" width="300" />
 Revolutionizing Web Development with AI-Powered Vibecoding
 
 Imagine bringing your web ideas to life in seconds, without writing a single line of code. DeepSite makes it possible! This vibecoding app leverages the power of DeepSeek models and Hugging Face Inference providers to transform your prompts into fully-functional web site.
@@ -47,6 +48,7 @@ Imagine bringing your web ideas to life in seconds, without writing a single lin
 
 ### 🖌️ DiscoTools
 <img src="https://i.imgur.com/jKfO9L2.png" alt="Discotools" data-canonical-src="https://i.imgur.com/jKfO9L2.png" width="300" />
+
 [Link](https://hf.co/spaces/enzostvs/deepsite)
 
 ## Fun Facts About Me! 🎉
